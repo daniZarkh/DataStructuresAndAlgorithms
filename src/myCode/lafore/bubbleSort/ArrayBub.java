@@ -1,4 +1,4 @@
-package myCode.bubleSort;
+package myCode.lafore.bubbleSort;
 
 public class ArrayBub {
     private long[] a;       // Ссылка на массив a

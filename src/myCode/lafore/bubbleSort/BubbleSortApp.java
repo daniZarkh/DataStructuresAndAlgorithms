@@ -1,4 +1,6 @@
-package myCode.bubleSort;
+package myCode.lafore.bubbleSort;
+
+import myCode.lafore.bubbleSort.ArrayBub;
 
 public class BubbleSortApp {
 
